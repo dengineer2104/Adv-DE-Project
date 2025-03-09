@@ -31,3 +31,7 @@ This is an E-Commerce dummy API.
 
 ## Architecture Diagram
 ![Architecture Diagram](https://github.com/dengineer2104/Adv-DE-Project/blob/main/architecture%20diagram.gif)
+
+##WorkSnapShots
+(https://github.com/dengineer2104/Adv-DE-Project/blob/main/image%20(1).png)
+(https://github.com/dengineer2104/Adv-DE-Project/blob/main/image.png)
